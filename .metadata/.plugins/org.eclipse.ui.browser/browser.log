@@ -1,0 +1,132 @@
+
+May 06, 2019 14:59:52.26 NEW SESSION
+May 06, 2019 14:59:52.26 [13736:18296:0506/145952.261:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+May 06, 2019 14:59:52.26 [13736:18296:0506/145952.261:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 06, 2019 14:59:52.57 [13736:18296:0506/145952.574:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 07, 2019 07:08:57.75 [13736:18296:0507/070857.753:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 07, 2019 09:00:26.81 [13736:18296:0507/090026.810:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 07, 2019 19:22:04.81 [13736:18296:0507/192204.815:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 08, 2019 07:13:45.78 [13736:18296:0508/071345.779:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 08, 2019 09:22:33.75 [13736:18296:0508/092233.759:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 09, 2019 07:23:38.82 [13736:18296:0509/072338.823:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 09, 2019 08:59:16.77 [13736:18296:0509/085916.776:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 09, 2019 10:00:11.17 [30412:25352:0509/100011.176:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+May 09, 2019 10:00:11.19 [30412:25352:0509/100011.176:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 09, 2019 10:00:11.40 [30412:25352:0509/100011.407:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 10, 2019 07:20:00.75 [30412:25352:0510/072000.758:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 10, 2019 09:14:40.79 [30412:25352:0510/091440.796:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 10, 2019 13:48:09.09 [36712:30888:0510/134809.099:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+May 10, 2019 13:48:09.13 [36712:30888:0510/134809.099:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 10, 2019 13:48:09.36 [36712:30888:0510/134809.367:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 10, 2019 13:56:14.01 [36712:29440:0510/135614.011:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:31:32.81 [36712:29440:0510/143132.818:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:28.13 [36712:29440:0510/144928.137:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:28.14 [36712:29440:0510/144928.145:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:28.70 [36712:29440:0510/144928.707:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:28.80 [36712:29440:0510/144928.803:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:32.53 [36712:29440:0510/144932.535:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -100
+May 10, 2019 14:49:58.08 [36712:29440:0510/144958.085:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:58.19 [36712:29440:0510/144958.193:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:49:58.94 [36712:29440:0510/144958.941:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:50:24.89 [36712:29440:0510/145024.893:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:50:28.10 [36712:29440:0510/145028.101:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:51:02.60 [36712:29440:0510/145102.605:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:51:26.86 [36712:29440:0510/145126.865:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 14:54:29.50 [36712:29440:0510/145429.506:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:35:51.09 [36712:29440:0510/163551.095:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:36:19.31 [36712:29440:0510/163619.317:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:36:19.32 [36712:29440:0510/163619.324:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:36:49.34 [36712:29440:0510/163649.341:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:36:49.35 [36712:29440:0510/163649.351:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:36:51.10 [36712:29440:0510/163651.105:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 10, 2019 16:36:51.11 [36712:29440:0510/163651.112:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 11, 2019 24:30:39.87 [36712:30888:0511/003034.800:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 11, 2019 07:16:49.79 [36712:30888:0511/071649.797:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 11, 2019 09:09:03.84 [36712:30888:0511/090859.802:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 12, 2019 07:09:44.18 [36712:30888:0512/070944.059:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 12, 2019 09:09:03.73 [36712:30888:0512/090859.799:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 13, 2019 07:00:32.00 [36712:30888:0513/070031.893:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 13, 2019 08:55:39.51 [36712:30888:0513/085535.799:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 13, 2019 10:08:21.69 [36712:29440:0513/100821.692:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 13, 2019 10:08:21.76 [36712:29440:0513/100821.741:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 13, 2019 10:08:22.07 [36712:29440:0513/100822.072:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 13, 2019 11:37:22.09 [36712:29440:0513/113722.097:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 13, 2019 11:43:20.02 [36712:29440:0513/114320.026:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 13, 2019 11:43:20.03 [36712:29440:0513/114320.031:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 14, 2019 07:19:23.59 [36712:30888:0514/071919.788:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 08:49:36.79 [36712:30888:0514/084936.790:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 08:49:59.40 [36712:30888:0514/084959.407:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 08:50:57.38 [36712:30888:0514/085057.387:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 08:52:20.71 [36712:30888:0514/085220.718:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 08:55:54.81 [36712:30888:0514/085554.813:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 09:03:10.59 [36712:30888:0514/090310.596:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 09:13:11.63 [36712:30888:0514/091311.628:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 09:23:12.67 [36712:30888:0514/092312.676:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 09:33:13.74 [36712:30888:0514/093313.748:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 09:43:14.79 [36712:30888:0514/094314.790:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 09:53:15.80 [36712:30888:0514/095315.807:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 10:03:16.95 [36712:30888:0514/100316.958:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 10:13:18.00 [36712:30888:0514/101318.003:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 10:23:19.06 [36712:30888:0514/102319.069:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 10:33:20.10 [36712:30888:0514/103320.108:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 10:43:21.17 [36712:30888:0514/104321.172:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 10:53:22.24 [36712:30888:0514/105322.243:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 11:03:23.27 [36712:30888:0514/110323.278:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 11:13:24.34 [36712:30888:0514/111324.342:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 11:23:25.40 [36712:30888:0514/112325.403:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 11:33:26.44 [36712:30888:0514/113326.444:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 11:43:27.48 [36712:30888:0514/114327.486:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 11:53:28.53 [36712:30888:0514/115328.532:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 12:03:29.57 [36712:30888:0514/120329.579:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 12:13:30.63 [36712:30888:0514/121330.631:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 12:23:31.67 [36712:30888:0514/122331.673:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 12:33:32.74 [36712:30888:0514/123332.749:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 12:43:33.77 [36712:30888:0514/124333.770:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 12:53:34.85 [36712:30888:0514/125334.849:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 13:03:35.88 [36712:30888:0514/130335.880:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 13:13:36.92 [36712:30888:0514/131336.924:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 13:23:37.95 [36712:30888:0514/132337.954:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 13:33:39.00 [36712:30888:0514/133339.009:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 13:43:40.06 [36712:30888:0514/134340.064:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 13:53:41.10 [36712:30888:0514/135341.108:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 14:03:42.15 [36712:30888:0514/140342.157:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 14:13:43.23 [36712:30888:0514/141343.232:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 14:23:44.28 [36712:30888:0514/142344.286:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 14:33:45.33 [36712:30888:0514/143345.339:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 14:43:46.38 [36712:30888:0514/144346.387:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 14:53:47.44 [36712:30888:0514/145347.440:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 15:03:48.47 [36712:30888:0514/150348.478:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 15:13:49.52 [36712:30888:0514/151349.524:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 14, 2019 15:23:50.60 [36712:30888:0514/152350.602:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 15, 2019 09:02:34.05 [34044:37936:0515/090233.963:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+May 15, 2019 09:02:35.22 [34044:37936:0515/090233.963:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 15, 2019 09:02:35.22 [34044:37936:0515/090234.214:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 15, 2019 09:03:36.01 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.01 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.01 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.03 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.03 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.03 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.03 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.03 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:03:36.04 [34044:37936:0515/090336.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 15, 2019 09:05:33.62 [34044:44980:0515/090533.620:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+May 16, 2019 07:27:31.03 [34044:37936:0516/072730.749:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+May 16, 2019 13:49:20.61 NEW SESSION
+May 16, 2019 13:49:20.61 [48404:46616:0516/134920.615:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+May 16, 2019 13:49:20.64 [48404:46616:0516/134920.615:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 16, 2019 13:49:20.88 [48404:46616:0516/134920.886:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+May 16, 2019 13:58:04.49 [48404:46616:0516/135804.493:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.49 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.49 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.49 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.49 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.49 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.50 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.50 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.50 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:58:04.50 [48404:46616:0516/135804.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+May 16, 2019 13:59:04.35 [48404:46616:0516/135904.354:ERROR:textfield.cc(1767)] NOT IMPLEMENTED
+May 17, 2019 07:26:32.61 [48404:46616:0517/072630.759:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 17, 2019 08:50:17.47 [48404:46616:0517/085013.838:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.

@@ -1,0 +1,17 @@
+INDEX VERSION 1.130
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3259169721.index
+\grizzle-store-web\src
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\338117338.index
+\grizzly-store-admin-web\src
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\327490447.index
+\grizzly-store-admin-web\src
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2021897924.index
+\grizzly-store-vendor-web\src
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3953734629.index
+\grizzly-store-admin-web\src
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2161253916.index
+\grizzly-store-admin-web\src
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1505688352.index
+\cts\src\main\java
+D:\765095\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1972985111.index
+\grizzle-store-web\src

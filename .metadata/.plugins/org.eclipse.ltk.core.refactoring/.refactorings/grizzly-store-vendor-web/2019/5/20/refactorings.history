@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;grizzly-store-vendor-web&apos;&#x0D;&#x0A;- Original project: &apos;grizzly-store-vendor-web&apos;&#x0D;&#x0A;- Original element: &apos;grizzly-store-vendor-web/src/com.pack.model&apos;" description="Delete element" element1="/src&lt;com.pack.model" element2="/src&lt;com.pack" element3="/src&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1557901571093" subPackages="false" version="1.0"/>
+</session>
